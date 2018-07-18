@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/turtle-test.dir/main.cpp.o CMakeFiles/turtle-test.dir/stacktests.cpp.o CMakeFiles/turtle-test.dir/stack.cpp.o  -o turtle-test -rdynamic googletest/googlemock/gtest/libgtest.a googletest/googlemock/libgmock.a googletest/googlemock/gtest/libgtest.a -pthread 
